@@ -1,0 +1,22 @@
+{
+  "name": "blockchainjs",
+  "version": "1.0.0",
+  "description": "full stack blockchain and cryptocurrency",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/V3ND3TTi/blockchainjs.git"
+  },
+  "author": "Devon Vendetti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/V3ND3TTi/blockchainjs/issues"
+  },
+  "homepage": "https://github.com/V3ND3TTi/blockchainjs#readme",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
